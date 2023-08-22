@@ -1,1 +1,4 @@
-
+Name:Victor_L
+Age:32
+Pets:1
+Salary:500
