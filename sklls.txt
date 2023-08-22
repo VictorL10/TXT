@@ -1,0 +1,10 @@
+Skill_1:Postman
+Skill_2:meter
+Skill_3:Mobile Testing
+Skill_4:Android Studio
+Skill_5:Fiddler
+Skill_6:Charles
+Skill_7:Client Server
+Skill_8:SQL
+Skill_9:ADB
+Skill_10:XCode
